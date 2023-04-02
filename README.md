@@ -73,4 +73,11 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
  <img src= "https://github-profile-trophy.vercel.app/?username=Ahmedbenabdallah29435&margin-w=15"> </p>
   </a>
 </p>
- 
+ ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Ahmedbenabdallah29435&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44)
+<a href="http://www.github.com/Ahmedbenabdallah29435"><img src="https://activity-graph.herokuapp.com/graph?username=Ahmedbenabdallah29435&theme=radical&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+## ⭐ *Top Languages*
+## ⭐ *Top Languages*
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&theme=radical)
+<!-- ##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&theme=radical&layout=compact) -->

@@ -74,6 +74,6 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
   </a>
 </p>
 
-## ⭐ *Top Languages*
+<!--## ⭐ *Top Languages*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&theme=radical)
 <!-- ##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&theme=radical&layout=compact) -->

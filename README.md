@@ -51,7 +51,7 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
  ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://ahmed-ben-abdallah-portfolio.github.io/"><img src="https://img.shields.io/badge/-ahmedbenabdallahportfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://ahmed-ben-abdallah-portfolio.github.io/"><img src="https://img.shields.io/badge/-ahmedbenabdallahportfolio-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="mailto:benabdallah.ahmed@esprit.com"><img src="https://img.shields.io/badge/-benabdallah.ahmed@esprit.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/ahmed.benabdallah.1232"><img src="https://img.shields.io/badge/-@Ahmed.Ben.Abdallah-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>

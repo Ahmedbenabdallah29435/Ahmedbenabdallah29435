@@ -44,7 +44,7 @@ I’m looking to collaborate on Open Source Projects and Participate in Hackatho
  
  ### 🌱 &nbsp;I’m currently learning
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=563D7C)&nbsp;
-![React/Mern-Stack](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React-Mern-Stack](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
  ### 🤝🏻 &nbsp;Connect with Me
 

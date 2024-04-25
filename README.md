@@ -1,6 +1,6 @@
 ![logo](https://github.com/Ahmedbenabdallah29435/Ahmedbenabdallah29435/blob/main/banner.png)
 <img align="right" alt="coding" width="400" >
-<h1 align="center">Hey there <img alt="wave" src="https://raw.githubusercontent.com/Elchedli/Elchedli/main/Hi.gif" width="35"> ! I am Ahmed. Nice to meet you!</h1>
+<h1 align="center">Hey there ! I am Ahmed. Nice to meet you!</h1>
 
 Welcome to my GitHub residence! 👋 
 Here I love to occasionally post all the projects that I had a blast working on, or simply try a hand at new, mind-polishing stuff.

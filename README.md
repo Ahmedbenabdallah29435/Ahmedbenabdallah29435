@@ -1,5 +1,5 @@
 ![logo](https://github.com/Ahmedbenabdallah29435/Ahmedbenabdallah29435/blob/main/banner.png)
-<img align="right" alt="coding" width="400" >
+
 <h1 align="center">Hey there ! I am Ahmed. Nice to meet you!</h1>
 
 Welcome to my GitHub residence! 👋 

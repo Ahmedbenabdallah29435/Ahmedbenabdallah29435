@@ -1,5 +1,5 @@
 ![logo](https://github.com/Ahmedbenabdallah29435/Ahmedbenabdallah29435/blob/main/banner.png)
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" >
 <h1 align="center">Hey there <img alt="wave" src="https://raw.githubusercontent.com/Elchedli/Elchedli/main/Hi.gif" width="35"> ! I am Ahmed. Nice to meet you!</h1>
 
 Welcome to my GitHub residence! 👋 

@@ -51,7 +51,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 
 ## 🌱 Currently Exploring
 
-- **DevOps**: Mastering tools like Docker and Kubernetes to streamline CI/CD pipelines.
+- **DevOps**: Mastering tools like Kubernetes to streamline CI/CD pipelines.
 - **AI & ML**: Learning about machine learning algorithms and their applications.
 - **Advanced Frontend**: Building interactive and scalable UIs with Angular and React.
 

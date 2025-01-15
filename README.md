@@ -72,6 +72,32 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 
 ---
 
+ ### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://ahmed-ben-abdallah-portfolio.github.io/"><img src="https://img.shields.io/badge/-ahmedbenabdallahportfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:benabdallah.ahmed@esprit.com"><img src="https://img.shields.io/badge/-benabdallah.ahmed@esprit.tn-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/ahmed.benabdallah.1232"><img src="https://img.shields.io/badge/-@Ahmed.Ben.Abdallah-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
+
+<br/><br/>
+<p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/Ahmedbenabdallah29435/count.svg" /></p>
+
+
+<p align="center">
+  <a href="https://github.com/Ahmedbenabdallah29435">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ahmedbenabdallah29435&count_private=true&hide_border=true&show_icons=true" alt="Ahmed's github stats">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ahmedbenabdallah29435">
+<p align="center">
+<p align="center"> <a href="https://github.com/Ahmedbenabdallah29435/github-profile-trophy">
+ <img src= "https://github-profile-trophy.vercel.app/?username=Ahmedbenabdallah29435&margin-w=15"> </p>
+  </a>
+</p>
+
 ## 🌐 Let's Connect!
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
@@ -88,7 +114,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 </p>
 
 ---
-## ⭐uu *Top Languages*
+## ⭐*Top Languages*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&theme=radical)
 <!-- ##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&theme=radical&layout=compact) -->
 ## ✨ Fun Fact

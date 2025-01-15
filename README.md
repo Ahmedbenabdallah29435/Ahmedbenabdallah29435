@@ -34,6 +34,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![PrimeNG](https://img.shields.io/badge/-PrimeNG-05122A?style=flat&logo=PrimeNG)&nbsp;
 
 ### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;

@@ -1,5 +1,7 @@
-![banner](https://github.com/Ahmedbenabdallah29435/Ahmedbenabdallah29435/blob/main/banner.png)
+<!-- 
 
+![banner](https://github.com/Ahmedbenabdallah29435/Ahmedbenabdallah29435/blob/main/banner.png)
+-->
 <h1 align="center"><img alt="wave" src="https://raw.githubusercontent.com/Elchedli/Elchedli/main/Hi.gif" width="35"> Hi, I'm Ahmed! Welcome to My GitHub Universe! 🌌</h1>
 
 <p align="center">

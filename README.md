@@ -78,9 +78,9 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 <p align="center">
 <a href="https://ahmed-ben-abdallah-portfolio.github.io/"><img src="https://img.shields.io/badge/-ahmedbenabdallahportfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:benabdallah.ahmed@esprit.com"><img src="https://img.shields.io/badge/-benabdallah.ahmed@esprit.tn-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/ahmed.benabdallah.1232"><img src="https://img.shields.io/badge/-@Ahmed.Ben.Abdallah-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://medium.com/@benabdallah.ahmed"><img src="https://img.shields.io/badge/-@Ahmed.Ben.Abdallah-1877F2?style=flat&logo=Medium&logoColor=white"/></a>
 </p>
-
+https://medium.com/@benabdallah.ahmed
 <br/><br/>
 <p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/Ahmedbenabdallah29435/count.svg" /></p>
 

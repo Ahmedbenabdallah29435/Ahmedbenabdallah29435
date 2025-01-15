@@ -45,7 +45,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 ### 📊 Databases & Visualization
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;
+![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=Powerbi)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)&nbsp;
 
 ---

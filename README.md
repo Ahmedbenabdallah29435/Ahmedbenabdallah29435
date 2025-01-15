@@ -11,7 +11,6 @@
 ## 🌟 About Me
 
 Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves exploring new technologies and creating impactful solutions. Whether it's building innovative applications, contributing to open-source projects, or brainstorming the next big idea, I'm always up for a challenge! 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 ### 👀 Quick Facts:
 - 💡 **Passionate Learner**: Always diving into new domains and tools.
 - 🛠️ **Builder at Heart**: I love turning ideas into functional, user-friendly solutions.
@@ -73,6 +72,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 ---
 
 ## 🌐 Let's Connect!
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile" target="_blank">

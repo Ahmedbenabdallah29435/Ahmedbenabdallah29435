@@ -58,6 +58,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 
 ---
 
+<!-- 
 ## 🎯 Featured Projects
 
 🌟 **[Project Name](#)**  
@@ -69,10 +70,10 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 - 🔧 Description: A brief description of what the project does.  
 - 🚀 Tech Stack: Technologies used.  
 - 🔗 [Repository Link](#)
+-->
 
----
+ ## 🌐 Let's Connect!
 
- ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://ahmed-ben-abdallah-portfolio.github.io/"><img src="https://img.shields.io/badge/-ahmedbenabdallahportfolio-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -95,21 +96,6 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 <p align="center">
 <p align="center"> <a href="https://github.com/Ahmedbenabdallah29435/github-profile-trophy">
  <img src= "https://github-profile-trophy.vercel.app/?username=Ahmedbenabdallah29435&margin-w=15"> </p>
-  </a>
-</p>
-
-## 🌐 Let's Connect!
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail" alt="Email">
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=internet-explorer" alt="Portfolio">
   </a>
 </p>
 

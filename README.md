@@ -1,6 +1,6 @@
 ![banner](https://github.com/Ahmedbenabdallah29435/Ahmedbenabdallah29435/blob/main/banner.png)
 
-<h1 align="center">🚀 Hi, I'm Ahmed! Welcome to My GitHub Universe! 🌌</h1>
+<h1 align="center">👋 Hi, I'm Ahmed! Welcome to My GitHub Universe! 🌌</h1>
 
 <p align="center">
   <em>“Transforming ideas into reality, one line of code at a time.”</em>

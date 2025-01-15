@@ -88,7 +88,9 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 </p>
 
 ---
-
+## ⭐uu *Top Languages*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&theme=radical)
+<!-- ##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&theme=radical&layout=compact) -->
 ## ✨ Fun Fact
 *"The best way to predict the future is to create it!"*
 

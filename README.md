@@ -109,12 +109,6 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 <br/><br/>
 <p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/Ahmedbenabdallah29435/count.svg" /></p>
 
-
-Credit: [Ahmed Ben Abdallah](https://github.com/Ahmedbenabdallah29435) 
-
-Last Edited on: 01/16/2025
-
-  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats 
   <div>
   <samp>
       <br/>
@@ -148,3 +142,10 @@ Last Edited on: 01/16/2025
 ---
 
 Feel free to explore my repositories, contribute, or just drop by to say hi! 🚀
+
+
+
+
+Credit: [Ahmed Ben Abdallah](https://github.com/Ahmedbenabdallah29435)  Last Edited on: 01/16/2025
+
+

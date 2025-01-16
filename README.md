@@ -113,8 +113,8 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 Credit: [Ahmed Ben Abdallah](https://github.com/Ahmedbenabdallah29435) 
 
 Last Edited on: 01/16/2025
-<details> 
-  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
+
+  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats 
   <div>
   <samp>
       <br/>

@@ -5,7 +5,8 @@
 <h1 align="center"><img alt="wave" src="https://raw.githubusercontent.com/Elchedli/Elchedli/main/Hi.gif" width="35"> Hi, I'm Ahmed! Welcome to My GitHub Universe! 🌌</h1>
 
 <p align="center">
-  <em>“Transforming ideas into reality, one line of code at a time.”</em>
+  <em>  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hey!+It's+Ahmed+Ben+Abdallah..&hearts;++;Self-taught+Full+Stack+Web+Developer,;Software-Engineer,;Love+to+learn+new+stuffs+everyday"></a>
+</em>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -74,7 +75,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -145,7 +146,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 
 Feel free to explore my repositories, contribute, or just drop by to say hi! 🚀
 
-
+<br/>
 <div align="center">
 
 **Credit:** [Ahmed Ben Abdallah](https://github.com/Ahmedbenabdallah29435)  

@@ -124,6 +124,32 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
   </a>
 </p>
 
+
+Credit: [Ahmed Ben Abdallah](https://github.com/Ahmedbenabdallah29435) 
+
+Last Edited on: 01/16/2025
+<details> 
+  <summary>  <img src="./assets/giphy.gif" width="30px" alt="Git"/>GitHub Profile Stats </summary>
+  <div>
+  <samp>
+      <br/>
+            <p align="center">
+      </p>
+        <p align="center">
+          <a href="https://github.com/Ahmedbenabdallah29435/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmedbenabdallah29435&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmedbenabdallah29435&theme=gruvbox&layout=compact&hide_border=true"
+          alt="1999AZZAR :: Top Langs by commit" />
+          </a>
+        </p>
+    <br>
+
+## <img src="https://media.giphy.com/media/dxIWYNNVCxFXdP76XE/giphy.gif" width ="25"><b> Trophies</b>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmedbenabdallah29435&theme=nord&column=7)](https://github.com/Naderab/github-profile-trophy)
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## ⭐*Top Languages*

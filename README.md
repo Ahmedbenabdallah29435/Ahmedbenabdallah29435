@@ -75,6 +75,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 

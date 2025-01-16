@@ -155,4 +155,9 @@ Feel free to explore my repositories, contribute, or just drop by to say hi! ðŸš
 </div>
 
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&show_icons=true&locale=en&layout=compact&langs_count=50&theme=algolia)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ahmedbenabdallah29435)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedbenabdallah29435&&theme=algolia" alt="Ahmedbenabdallah29435" /></p>
+
 

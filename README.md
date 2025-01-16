@@ -83,6 +83,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🔧Other Infos
+<p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/Ahmedbenabdallah29435/count.svg" /></p>
 
 <div align="center" >
 
@@ -108,7 +109,6 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 - 🔗 [Repository Link](#)
 -->
 
-<p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/Ahmedbenabdallah29435/count.svg" /></p>
 
   <div>
   <samp>

@@ -128,6 +128,8 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 ## ⭐*Top Languages*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&theme=radical)
 <!-- ##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&theme=radical&layout=compact) -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## ✨ Fun Fact
 *"The best way to predict the future is to create it!"*
 

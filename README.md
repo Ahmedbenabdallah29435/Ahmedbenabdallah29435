@@ -110,21 +110,6 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 <p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/Ahmedbenabdallah29435/count.svg" /></p>
 
 
-<p align="center">
-  <a href="https://github.com/Ahmedbenabdallah29435">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ahmedbenabdallah29435&count_private=true&hide_border=true&show_icons=true" alt="Ahmed's github stats">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Ahmedbenabdallah29435">
-<p align="center">
-<p align="center"> <a href="https://github.com/Ahmedbenabdallah29435/github-profile-trophy">
- <img src= "https://github-profile-trophy.vercel.app/?username=Ahmedbenabdallah29435&margin-w=15"> </p>
-  </a>
-</p>
-
-
 Credit: [Ahmed Ben Abdallah](https://github.com/Ahmedbenabdallah29435) 
 
 Last Edited on: 01/16/2025

@@ -78,4 +78,4 @@ Salut ! 👋 Je suis Ahmed, un passionné de technologie et un résolveur de pro
 
 ## ✍️ Citation aléatoire de développeur
 
-![](https://...)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

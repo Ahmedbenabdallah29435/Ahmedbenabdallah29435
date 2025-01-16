@@ -81,7 +81,9 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## 🔧*Other Infos*
+
+## 🔧Other Infos
+
 <div align="center" >
 
 | Choose your language         | Flags                                                                                                              |
@@ -91,6 +93,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 | [AR-SA](./README-AR-SA.md) | <img width="15%" alt="Node4Devs Logo" title="Saudi Flag (SA)" src="./assets/images/flags/saudi_ arabia.jpg" />        |
 
 </div>
+
 <!-- 
 ## 🎯 Featured Projects
 
@@ -104,7 +107,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 - 🚀 Tech Stack: Technologies used.  
 - 🔗 [Repository Link](#)
 -->
-<br/><br/>
+
 <p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/Ahmedbenabdallah29435/count.svg" /></p>
 
   <div>

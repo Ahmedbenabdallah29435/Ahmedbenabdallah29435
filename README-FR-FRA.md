@@ -35,7 +35,7 @@ Salut ! 👋 Je suis Ahmed, un passionné de technologie et un résolveur de pro
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-## 🛠️ Mon boîte à outils
+## 🛠️ Mes outils de développement
 
 ### 👨‍💻 Langages de programmation
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;

@@ -19,6 +19,7 @@
 <a href="https://medium.com/@benabdallah.ahmed"><img src="https://img.shields.io/badge/-@Ahmed.Ben.Abdallah-1877F2?style=flat&logo=Medium&logoColor=white"/></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🌟 About Me
 
@@ -29,7 +30,8 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 - 🤝 **Team Player**: Open to collaborations, hackathons, and brainstorming sessions.
 - 🌱 **Growth Mindset**: Constantly evolving my skills and embracing challenges.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 ## 🛠️ My Toolbox
 
@@ -60,7 +62,8 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 ![PowerBI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=Powerbi)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)&nbsp;
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 ## 🌱 Currently Exploring
 
@@ -68,7 +71,8 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 - **AI & ML**: Learning about machine learning algorithms and their applications.
 - **Advanced Frontend**: Building interactive and scalable UIs with Angular and React.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -100,6 +104,7 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 - 🚀 Tech Stack: Technologies used.  
 - 🔗 [Repository Link](#)
 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br/><br/>
 <p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/Ahmedbenabdallah29435/count.svg" /></p>
@@ -119,7 +124,8 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
 ## ⭐*Top Languages*
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&theme=radical)
 <!-- ##![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedbenabdallah29435&theme=radical&layout=compact) -->

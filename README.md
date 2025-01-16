@@ -146,8 +146,12 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 Feel free to explore my repositories, contribute, or just drop by to say hi! 🚀
 
 
+<div align="center">
 
+**Credit:** [Ahmed Ben Abdallah](https://github.com/Ahmedbenabdallah29435)  
+**Last Edited on:** 01/16/2025  
 
-Credit: [Ahmed Ben Abdallah](https://github.com/Ahmedbenabdallah29435)  Last Edited on: 01/16/2025
+</div>
+
 
 

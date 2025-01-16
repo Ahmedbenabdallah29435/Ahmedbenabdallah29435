@@ -6,7 +6,7 @@
 <h1 align="center"><img alt="wave" src="https://raw.githubusercontent.com/Elchedli/Elchedli/main/Hi.gif" width="35"> Salut, je suis Ahmed ! Bienvenue dans mon univers GitHub ! 🌌</h1>
 
 <p align="center">
-  <em>  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Salut!+C'est+Ahmed+Ben+Abdallah..&hearts;++;Développeur+Full+Stack+autodidacte,;Ingénieur+logiciel,;J'aime+apprendre+de+nouvelles+choses+chaque+jour"></a>
+  <em>  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Salut!+C'est+Ahmed+Ben+Abdallah..&hearts;++;Développeur+Full+Stack+Java,;Ingénieur+logiciel,;J'aime+apprendre+de+nouvelles+choses+chaque+jour"></a>
 </em>
 </p>
 

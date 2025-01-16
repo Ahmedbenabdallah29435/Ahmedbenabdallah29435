@@ -104,7 +104,6 @@ Hey there! 👋 I'm Ahmed, a tech enthusiast and problem solver who loves explor
 - 🚀 Tech Stack: Technologies used.  
 - 🔗 [Repository Link](#)
 -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br/><br/>
 <p align="center">Visitors Count<br/><br/><img src="https://profile-counter.glitch.me/Ahmedbenabdallah29435/count.svg" /></p>
